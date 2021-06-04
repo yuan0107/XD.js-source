@@ -1,0 +1,52 @@
+20/5/2021 log: 
+- fps boost improved
+- killsay improved
+- changed clantag
+- fixed grammar and small issues
+- added tooltips to some  features
+21/5/2021 log: 
+- simplified watermark 
+- improved the buylist (the old one was kinda shit ngl)
+- removed indicators (the code was bad)
+- added indicators bar
+- added skeet info bar
+- added keybinds
+- added spectator list
+- will work on ragebot / AA later
+23/5/2021 log:
+- added predict target hitbox
+- re-added teamskeet indicators
+- teamskeet indicators not working ? Will have to debug
+- Debugging sends 0 errors. I dont know what is going on. 
+- Spent all night trying to fix the feature. Still didnt work. Might have to try tmr
+24/5/2021 log:
+- deleted teamskeet indicators (doensnt work)
+- Recoded teamskeet indicators 
+- Indicators finally working with some exceptions sadly
+- Might work it out later, will focus on rage features for now.
+27/5/2021 log:
+- improved team skeet indicators
+- added auto team choose (experimental)
+- might release the project to the public soon , lost motivation :(
+- added autostop with doubletap
+30/5/2021 log:
+- added teleport on peek (highly recommended by friends)
+- commented teleport on peek out (cause crashes on weak PCs)
+- added safety after x misses
+- added clear chat
+31/5/2021 log:
+- testing script
+- major update soon
+1/6/2021 log:
+- added hide chat
+- added crouch on DT
+- added auto molotov smoking
+- added exploit indicator
+2/6/2021 log:
+- added anti-crasher (highly requested)
+- added panorama weaponlist
+- added base AA override
+- added gernade helper
+- net graph feature will now automatically disable csgo's default netgraphs
+- added better miss logs
+- added cycle jitter
