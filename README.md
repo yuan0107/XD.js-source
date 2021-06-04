@@ -10,3 +10,4 @@ This version has  more than 100 features that focuses on improving the misc/ rag
 "XD.js" was a name one of my friends named it when the script was still in improvement process.
 
 For music kit ids, refer to the music kit id.docx provided in the repo
+For changelogs and information on what were added / changed  from the script refer to the changelog.txt file in the repo 
