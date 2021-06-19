@@ -1,6 +1,6 @@
 # XD.js source
 OTC v3 javascript
-This is the clean source of the improved version of otc3 cord, one of the best open-source js for HvH for OTC3. 
+This is the source of my customized version of a javascript made for the cracked version of onetap.com (OTC v3). The script was improved using otc3 cord , one of the best open-source js for HvH for OTC3 as the base version.
 
 The original script was made by Sleebu#0448.
 
